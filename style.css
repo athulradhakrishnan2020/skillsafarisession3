@@ -1,0 +1,98 @@
+.container{
+    width: 2000px;
+    margin: auto;
+ }
+ 
+ h1{
+    
+    color: rgb(0, 0, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+
+ .row{
+    display: flex;
+    flex-wrap: wrap;
+ }
+
+ .box2{
+    width: 25%;
+    margin: auto;
+    padding: 30px;
+    border: 1px solid #6e00ae;
+    border-radius: 10px;
+ }
+
+ .box1{
+    width: 35%;
+    margin: auto;
+    border: 1px solid  #6e00ae;
+    padding: 10px;
+    border-radius: 10px;
+    
+ }
+ 
+ .box1 .box11{
+    width: 45%;
+    margin: auto;
+
+ }
+
+ .box11 img{
+    width: 300px;
+ }
+
+ .box3 .box31{
+    width: 20%;
+    margin: auto;
+ }
+
+ .box3 .box32{
+    width: 25%;
+    margin: auto;
+    border: 1px solid #6e00ae;
+    padding: 10px;
+    border-radius: 10px;
+ }
+
+ .box3 .box311{
+    border-radius: 10px;
+
+ }
+
+ .box312 img{
+    width: 500px;
+    border-radius: 10px;
+ }
+
+ .box4{
+    border-radius: 10px;
+
+ }
+ .box4 .box42{
+    width: 25%;
+    margin: auto;
+    border-radius: 10px;
+ }
+
+ .box4 .box41{
+    width: 60%;
+    margin: auto;
+    border-radius: 10px;
+ }
+
+ .box41 .box411{
+    border-radius: 10px;
+
+}
+
+
+.box411 .box4111{
+    width: 20%;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.box4111 img{
+    width: 250px;
+    border-radius: 10px;
+}
